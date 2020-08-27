@@ -20,3 +20,5 @@ Desde Talleres El Corcho trabajamos aportando las medidas de seguridad necesaria
 - Protección del vehículo una vez recepcionado
 
 - Limpieza mediante tratamiento purificador de OZONO previo a la entrega del vehículo
+
+- Esto es una pruebas
